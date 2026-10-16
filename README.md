@@ -10,4 +10,4 @@ When the discord user opens the file immediately their IP will be pulled
 
 Obfuscate the code if possible
 
-you can also add this to other batch files for less suspicion
+You can also add this to other batch files for less suspicion
